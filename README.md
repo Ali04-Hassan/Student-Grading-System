@@ -102,6 +102,9 @@ g++ -std=c++11 -o grading main.cpp
 # Run
 ./grading          # Linux/Mac
 grading.exe        # Windows
+OR
+1 Run python server you will shift on cmd hold (ctrl) and click dashboard link show in cmd above.
+2 Open folder in VS code and run HTML file dashboard will show. 
 ```
 
 ### Dashboard
