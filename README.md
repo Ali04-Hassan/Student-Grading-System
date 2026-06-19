@@ -108,3 +108,30 @@ OR
 ```
 
 ### Dashboard
+Double click dashboard.html
+Opens in any browser
+---
+
+## 🎯 Dashboard Features
+
+- 📊 Grade Distribution Charts
+- 📈 Semester-wise Performance Graph
+- 🏆 Student Leaderboard
+- 👥 All Students Table with Search & Filter
+- ✏️ Add / Edit / Delete Students
+- 📋 Grade Report (Pass/Fail analysis)
+- 🧮 GPA Calculator
+- 🎯 Radar Chart for Subject Performance
+
+---
+
+## 👨‍💻 Developer
+
+**Ali Hassan**  
+BSc Computer Engineering — 2025  
+Department of Computer Engineering
+
+---
+
+## 📄 License
+This project is for educational purposes — CL-1004 OOP Lab
